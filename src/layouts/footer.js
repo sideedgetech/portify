@@ -40,7 +40,7 @@ const Footer = ({ simple = false, user = {} }) => {
     if (simple) {
       return (
         <StyledCredit simple tabindex="-1">
-          <a rel="noreferrer" target="_blank" href="https://jrgarciadev.com">
+          <a rel="noreferrer" target="_blank" href="https://github.com/sideedgetech">
             <span>Created by</span>
             &nbsp;
             <div>Side Edge</div>
