@@ -90,14 +90,14 @@ function HomeForm({ theme, remaining }) {
       </RemainingPortfolios>
       <ProductHuntContainer>
         <a
-          href="https://www.producthunt.com/posts/devcover?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-devcover"
+          href="https://www.producthunt.com/"
           target="_blank"
           rel="noreferrer"
           style={{ margin: '1rem 0' }}
         >
           <img
-            src="https://api.producthunt.com/"
-            alt="Portify - Easiest way to generate a Portfolio | Product Hunt (Unavaillable)"
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=287287&theme=dark"
+            alt="Portify - Easiest way to generate a Portfolio "
             style={{ width: '250px', height: '54px' }}
             width="250"
             height="54"
