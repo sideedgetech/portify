@@ -43,7 +43,7 @@ const Footer = ({ simple = false, user = {} }) => {
           <a rel="noreferrer" target="_blank" href="https://jrgarciadev.com">
             <span>Created by</span>
             &nbsp;
-            <div>Junior García</div>
+            <div>Side Edge</div>
           </a>
         </StyledCredit>
       );
