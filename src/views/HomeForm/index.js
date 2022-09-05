@@ -96,8 +96,8 @@ function HomeForm({ theme, remaining }) {
           style={{ margin: '1rem 0' }}
         >
           <img
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=287287&theme=dark"
-            alt="Devcover - Easiest way to generate a developer portfolio | Product Hunt"
+            src="https://api.producthunt.com/"
+            alt="Portify - Easiest way to generate a Portfolio | Product Hunt (Unavaillable)"
             style={{ width: '250px', height: '54px' }}
             width="250"
             height="54"
