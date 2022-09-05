@@ -134,7 +134,7 @@ export const getUserFavicon = (user) => {
 };
 
 export const getHeadData = ({ isPortfolio, user }) => {
-  const title = 'Devcover | Easiest way to generate a dev portfolio';
+  const title = 'Portify | Easiest way to generate a Portfolio';
   const head = {
     title,
     icon: `${MAIN_SITE_URL}/favicon.ico`,
