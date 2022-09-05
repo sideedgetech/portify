@@ -3,7 +3,7 @@ import { CornerStyles } from './styles';
 const Corner = () => (
   <CornerStyles>
     <a
-      href="https://github.com/jrgarciadev/dev-cover"
+      href="https://github.com/sideedgetech/portify"
       target="_blank"
       rel="noopener noreferrer"
       className="github-corner"
