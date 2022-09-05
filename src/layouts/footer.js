@@ -22,7 +22,7 @@ const Footer = ({ simple = false, user = {} }) => {
           </span>
           <StyledCredit simple tabindex="-1">
             <a rel="noreferrer" target="_blank" href={MAIN_SITE_URL}>
-              <span>Powered by Devcover</span>
+              <span>Powered by Portify</span>
             </a>
           </StyledCredit>
         </StyledCredit>
@@ -32,7 +32,7 @@ const Footer = ({ simple = false, user = {} }) => {
       return (
         <StyledCredit simple tabindex="-1">
           <a rel="noreferrer" target="_blank" href={MAIN_SITE_URL}>
-            <span>Powered by Devcover</span>
+            <span>Powered by Portify</span>
           </a>
         </StyledCredit>
       );
