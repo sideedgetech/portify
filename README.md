@@ -1,10 +1,3 @@
-![Devcover logo](https://devcover.me/devcover-logo-bg.png)
-
-🌐 [Open Website](https://devcover.me)
-
-📚 [Read blog](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio)
-
-Devcover is an open source application which allows developers to create a portfolio in less than 2 minutes with just their **username**.
 
 ## Inspiration
 
